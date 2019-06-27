@@ -1,0 +1,14 @@
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\bin\Debug\netcoreapp2.2\WebAPIAngular.deps.json
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\bin\Debug\netcoreapp2.2\WebAPIAngular.runtimeconfig.json
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\bin\Debug\netcoreapp2.2\WebAPIAngular.runtimeconfig.dev.json
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\bin\Debug\netcoreapp2.2\WebAPIAngular.dll
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\bin\Debug\netcoreapp2.2\WebAPIAngular.pdb
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.csproj.CoreCompileInputs.cache
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.RazorAssemblyInfo.cache
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.RazorAssemblyInfo.cs
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.AssemblyInfoInputs.cache
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.AssemblyInfo.cs
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.RazorTargetAssemblyInfo.cache
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.dll
+C:\Users\renat\source\repos\WebAPIAngular\WebAPIAngular\obj\Debug\netcoreapp2.2\WebAPIAngular.pdb
